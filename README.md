@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MDIdris0305
 - 👀 I’m interested in JavaScript, Python & SQL.
 - 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on Dev_Oops.
+- 💞️ I’m looking to collaborate on Dev_Ops.
 - 📫 Reach me on Discord: md.idris
 
 <!---
